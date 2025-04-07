@@ -1,0 +1,24 @@
+[
+  {
+    "admin_id": "admin_001",
+    "username": "amina",
+    "password": "secret123",
+    "global_event": {
+      "title": "Chaima and Haitham's Wedding",
+      "subtitle": "April 15–19 · Monastir · A celebration of love 💍",
+      "description": "Join us in remembering the beautiful moments!"
+    },
+    "events": [
+      {
+        "event_id": "henna",
+        "name": "Henna Day",
+        "date": "2025-04-16"
+      },
+      {
+        "event_id": "wedding",
+        "name": "Wedding Day",
+        "date": "2025-04-19"
+      }
+    ]
+  }
+]
