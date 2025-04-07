@@ -1,23 +1,29 @@
 [
   {
-    "admin_id": "admin_001",
+    "company_id": "dcb4b416-0d02-4b8c-a6d5-e13c1556a778",
+    "admin_id": "f90a7c12-bf26-4a29-8e02-23bdb470eb89",
     "username": "amina",
     "password": "secret123",
     "global_event": {
-      "title": "Chaima and Haitham's Wedding",
-      "subtitle": "April 15–19 · Monastir · A celebration of love 💍",
+      "title": "Amina & Youssef's Wedding",
+      "subtitle": "April 15–18 · Casablanca · A celebration of love 💍",
       "description": "Join us in remembering the beautiful moments!"
     },
     "events": [
       {
         "event_id": "henna",
         "name": "Henna Day",
-        "date": "2025-04-16"
+        "date": "2025-04-15"
       },
       {
         "event_id": "wedding",
         "name": "Wedding Day",
-        "date": "2025-04-19"
+        "date": "2025-04-17"
+      },
+      {
+        "event_id": "farewell",
+        "name": "Farewell Brunch",
+        "date": "2025-04-18"
       }
     ]
   }
