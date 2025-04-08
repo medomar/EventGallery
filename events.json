@@ -1,30 +1,30 @@
 [
   {
-    "company_id": "dcb4b416-0d02-4b8c-a6d5-e13c1556a778",
-    "admin_id": "f90a7c12-bf26-4a29-8e02-23bdb470eb89",
+    "companyId": "dcb4b416-0d02-4b8c-a6d5-e13c1556a778",
+    "adminId": "f90a7c12-bf26-4a29-8e02-23bdb470eb89",
     "username": "amina",
     "password": "secret123",
-    "global_event": {
-      "title": "Amina & Youssef's Wedding",
-      "subtitle": "April 15–18 · Casablanca · A celebration of love 💍",
-      "description": "Join us in remembering the beautiful moments!",
-      "imageUrl": "https://fastly.picsum.photos/id/51/200/300.jpg?hmac=w7933XDRbSqrql6BuyEfFBOeVsO60iU5N_OS5FbO6wQ",
-    },
+    "title": "Amina & Youssef's Wedding",
+    "subtitle": "April 15–18 · Casablanca · A celebration of love 💍",
+    "imageUrl": "https://fastly.picsum.photos/id/51/200/300.jpg?hmac=w7933XDRbSqrql6BuyEfFBOeVsO60iU5N_OS5FbO6wQ",
     "events": [
       {
-        "event_id": "henna",
+        "folder": "henna",
         "name": "Henna Day",
-        "date": "2025-04-15"
+        "date": "2025-04-15",
+        "description": "A vibrant start with traditional designs"
       },
       {
-        "event_id": "wedding",
+        "folder": "wedding",
         "name": "Wedding Day",
-        "date": "2025-04-17"
+        "date": "2025-04-17",
+        "description": "The main ceremony and celebration"
       },
       {
-        "event_id": "farewell",
+        "folder": "farewell",
         "name": "Farewell Brunch",
-        "date": "2025-04-18"
+        "date": "2025-04-18",
+        "description": "A lovely sendoff with close family and friends"
       }
     ]
   }
