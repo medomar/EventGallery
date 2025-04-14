@@ -33,5 +33,74 @@
         "description": "7afelli w sleymya"
       }
     ]
-  }
+  },
+    {
+    "companyId": "4d6821f4-3f99-4590-9626-6b3b727942fa",
+    "adminId": "8a3e2fc2-ec3d-46f5-aaf4-9e0bb90298a1",
+    "username": "haithem",
+    "password": "secret123",
+    "title": "Haithem & Chaima",
+    "subtitle": "15–19 Avril · Monastir · Une histoire d'amour célébrée en beauté ❤️",
+    "imageUrl": "https://your-custom-image-url.com",
+    "events": [
+      {
+        "folder": "zde9",
+        "name": "Zde9 – Mardi 15 Avril",
+        "date": "2025-04-15",
+        "description": "Un début festif pour une semaine d'amour inoubliable"
+      },
+      {
+        "folder": "wtya",
+        "name": "Wtya – Mercredi 16 Avril",
+        "date": "2025-04-16",
+        "description": "Une ambiance chaleureuse entourée de proches et de traditions"
+      },
+      {
+        "folder": "sleymya",
+        "name": "Sleymya – Jeudi 17 Avril",
+        "date": "2025-04-17",
+        "description": "Un moment magique entre danses, sourires et souvenirs à jamais"
+      },
+      {
+        "folder": "3ers",
+        "name": "Mariage – Samedi 19 Avril",
+        "date": "2025-04-19",
+        "description": "Le grand jour où deux cœurs s’unissent pour la vie 💍"
+      }
+    ]
+  },
+  {
+  "companyId": "6f1e1b02-9c94-4a71-90ce-2f7a6e4c1c97",
+  "adminId": "cc66b218-f209-4eb6-89f3-bbf7e9df1b7e",
+  "username": "chaima",
+  "password": "souvenir123",
+  "title": "Souvenirs avec Chaima",
+  "subtitle": "Partagez vos plus beaux souvenirs avec Chaima ✨",
+  "imageUrl": "https://your-chaima-gallery-image.com",
+  "events": [
+    {
+      "folder": "souvenirs-chaima",
+      "name": "Souvenirs avec Chaima",
+      "date": "2025-04-20",
+      "description": "Une galerie dédiée aux moments partagés avec Chaima – entre rires, tendresse et complicité"
+    }
+  ]
+},
+{
+  "companyId": "8d7f370b-210f-4048-8b07-4d8033ab7a39",
+  "adminId": "c3510d56-29ff-4c90-98b1-8c3469cfc633",
+  "username": "haithem",
+  "password": "souvenir123",
+  "title": "Souvenirs avec Haithem",
+  "subtitle": "Contribuez avec vos moments inoubliables partagés avec Haithem 📷",
+  "imageUrl": "https://hopeevents.s3.eu-north-1.amazonaws.com/papi.png",
+  "events": [
+    {
+      "folder": "souvenirs-haithem",
+      "name": "Souvenirs avec Haithem",
+      "date": "2025-04-20",
+      "description": "Ajoutez vos photos et anecdotes personnelles avec Haithem – des moments à garder pour toujours"
+    }
+  ]
+}
 ]
